@@ -15,4 +15,4 @@ yarn add express-v4-route-list
 
 `log would be like this`
 
-![Capture](./images/capture.png)
+![Capture](images/capture.png)
