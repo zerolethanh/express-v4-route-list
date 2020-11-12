@@ -1,6 +1,6 @@
 {
   "name": "express-v4-route-list",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "route list for express v4+",
   "main": "index.js",
   "scripts": {
