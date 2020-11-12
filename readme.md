@@ -15,4 +15,4 @@ yarn add express-v4-route-list
 
 `log would be like this`
 
-![Capture](images/capture.png)
+![Capture](https://raw.githubusercontent.com/zerolethanh/express-v4-route-list/master/images/capture.png)
