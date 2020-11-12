@@ -12,3 +12,7 @@ yarn add express-v4-route-list
   const routeList = require('express-v4-route-list')(app)
   console.log(routeList);
 ```
+
+`log would be like this`
+
+![Capture](./images/capture.png)
