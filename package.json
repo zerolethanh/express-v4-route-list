@@ -1,7 +1,7 @@
 {
   "name": "express-v4-route-list",
-  "version": "1.1.1",
-  "description": "",
+  "version": "1.1.2",
+  "description": "route list for express v4+",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,8 @@
     "routes",
     "route list"
   ],
-  "author": "",
+  "author": "thanh_classfunc",
+  "homepage": "https://github.com/zerolethanh/express-v4-route-list",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {}
